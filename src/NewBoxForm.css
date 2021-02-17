@@ -1,0 +1,13 @@
+.NewBoxForm div {
+    margin: 1em;
+}
+
+.NewBoxForm-addBtn {
+    display: inline-block;
+    border: none;
+    height: 2em;
+    width: 4em;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+}
